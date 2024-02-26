@@ -14,5 +14,5 @@ $ npm i
 $ npm run vercel
 ```
 
-[DEMO](https://vanilla-movie.vercel.app/#/)
 ![MovieApp](https://raw.githubusercontent.com/eegyuhong/vanilla-movie/main/_assets/screenshot.JPG)
+[DEMO](https://vanilla-movie.vercel.app/#/)
